@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Delegates.Step1_Extracting_Lambda</StartupObject>
+    <StartupObject>BasicDelegate.Step5_Lamda</StartupObject>
   </PropertyGroup>
 
 </Project>
